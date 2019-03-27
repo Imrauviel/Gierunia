@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553706723 source:c:\programowanie\2018\gra paragafowa\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
